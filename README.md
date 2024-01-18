@@ -1,6 +1,8 @@
 # crewai-to-notion
 A Python script that saves your CrewAI agents crew output to a Notion Database
 
+*Note this script uses the Open-Hermes-2.5 model from Nous Reasearch but you can use other models with CrewAI
+
 # Intro
 [CrewAI]([url](https://github.com/joaomdmoura/crewAI)https://github.com/joaomdmoura/crewAI) is a great new agents framework where you can create a "crew" of AI agents to perform a task.
 
