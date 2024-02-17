@@ -8,7 +8,7 @@ A Python script that saves your CrewAI agents crew output to a Notion Database
 
 I really love to use CrewAI, but I wanted away to easily save the output somewhere other than the dev console. So I created this simple script where you can automatically save the output of a CrewAI process to a Notion DB using the Notion Python SDK.
 
-# Steps to use
+# Steps to use the script
 
 1. pip install notion-client
 
